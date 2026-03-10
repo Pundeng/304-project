@@ -46,3 +46,5 @@ Execute the remote start script:
 ```bash
 ./remote-start.sh
 ```
+
+HELLO WORLD
